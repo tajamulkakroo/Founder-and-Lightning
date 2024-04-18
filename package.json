@@ -1,0 +1,19 @@
+{
+  "name": "founder-and-lightning",
+  "version": "1.0.0",
+  "description": "Tech Assignment",
+  "main": "index.js",
+
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tajamul Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "cypress-iframe": "^1.0.1"
+
+    
+  }
+}

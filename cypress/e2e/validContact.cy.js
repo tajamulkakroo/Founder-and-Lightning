@@ -1,5 +1,3 @@
-import 'cypress-iframe'
-
 describe('Testing the contact us page of Founder and Lightning' , ()=> {
 
 it('Test with Valid data', ()=> {
